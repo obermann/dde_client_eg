@@ -8,3 +8,4 @@ Read docstrings and use **DDEClient** class object that is like a dictionary of 
     dde_client[("Service","Topic")].execute("This")
     print "There are %i ready conversations." % len(dde_client)
 
+pywin32 emulator is not tested!
